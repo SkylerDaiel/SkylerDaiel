@@ -13,9 +13,9 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 
 ✅ AI:<br/>
 ✔ NLP, ML<br/>
-✔ OpenAI, chatGPT, Fine-tuning<br/>
+✔ OpenAI, chatGPT,llama2, llava, Fine-tuning<br/>
 ✔ Semenatic Search, IVR, Gorila, Supabase, Pinecone<br/>
-✔ Keras, pytorch<br/>
+✔ Keras, pytorch, tensorflow<br/>
 ✅ Front-end:<br/>
 ✔ HTML, CSS, (SASS/SCSS, LESS) , CSS3 with Animation<br/>
 ✔ Tailwind, Bootstrap, Bulma, Materialize CSS,<br/>
@@ -29,7 +29,6 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 ✔ LAMP stack, Laravel, CodeIgniter<br/>
 ✔ Node.js, Express.js, Nest.js<br/>
 ✔ Python. Django<br/>
-✔ Ruby on Rails<br/>
 ✅ Database: SQL, MySQL, SQLite, PostgreSQL, MongoDB,<br/>
 ✅ APIs:<br/>
 ✔Google Apis, Google Adsense, Google Ads, Google Sheet,<br/>
@@ -41,8 +40,6 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 Socket.io, Pusher,<br/>
 ✅ Automation:<br/>
 Selenium, Chatbot development, Bot developement,<br/>
-✅ Blockchain:<br/>
-Cryptocurrency, Solidity, Smart Contract , Web3.js, ERC20, ERC721, ERC777, ERC1155, Solana, Rust, DApp, DAO, Defi, NFT marketplace, NFT minting,<br/>
 ✅ QA Testing:<br/>
 Unit Testing, Pytest , QA Automation, Software Testing , Smoke, Regression and Writing Bug Reports and Test Cases.<br/>
 ✅ DevOps:<br/>
