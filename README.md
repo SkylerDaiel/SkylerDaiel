@@ -49,6 +49,3 @@ Unit Testing, Pytest , QA Automation, Software Testing , Smoke, Regression and W
 ✅ Version Control: Git, Github, GitLab, Bitbucket,<br/>
 ✅ Development Tools:<br/>
 PhpStorm, WebStorm, WebStorm, Atom, VS Code, Sublime Text, Bracket.<br/>
-I can start your project immediately and work over 40 hours per week.<br/>
-
-Thanks for your time. Best regards.
