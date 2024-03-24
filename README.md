@@ -40,6 +40,15 @@ Also, I'm the right person who keep well time-line and dead-line and work well u
 Socket.io, Pusher,<br/>
 ✅ Automation:<br/>
 Selenium, Chatbot development, Bot developement,<br/>
+✅ QA Testing:<br/>
+Unit Testing, Pytest , QA Automation, Software Testing , Smoke, Regression and Writing Bug Reports and Test Cases.<br/>
+✅ DevOps:<br/>
+✔ AWS, Digital Ocean, Google Cloud, Heroku, CPanel, Azure<br/>
+✔ Linux/ Shared/ Dedicated / VPS server and hosting<br/>
+✔ Docker, Jenkins, Ansible, etc.<br/>
+✅ Version Control: Git, Github, GitLab, Bitbucket,<br/>
+✅ Development Tools:<br/>
+PhpStorm, WebStorm, WebStorm, Atom, VS Code, Sublime Text, Bracket.<br/>
 
 
 ## 🛠️ Languages and Tools : 
@@ -81,12 +90,3 @@ Selenium, Chatbot development, Bot developement,<br/>
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=superdev219&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ---
-✅ QA Testing:<br/>
-Unit Testing, Pytest , QA Automation, Software Testing , Smoke, Regression and Writing Bug Reports and Test Cases.<br/>
-✅ DevOps:<br/>
-✔ AWS, Digital Ocean, Google Cloud, Heroku, CPanel, Azure<br/>
-✔ Linux/ Shared/ Dedicated / VPS server and hosting<br/>
-✔ Docker, Jenkins, Ansible, etc.<br/>
-✅ Version Control: Git, Github, GitLab, Bitbucket,<br/>
-✅ Development Tools:<br/>
-PhpStorm, WebStorm, WebStorm, Atom, VS Code, Sublime Text, Bracket.<br/>
